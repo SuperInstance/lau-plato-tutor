@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "The PLATO tutoring language — meaning-matched response evaluation in a single embedding space"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-plato-tutor"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
