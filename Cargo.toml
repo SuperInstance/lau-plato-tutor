@@ -1,6 +1,6 @@
 [package]
 name = "lau-plato-tutor"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "The PLATO tutoring language — meaning-matched response evaluation in a single embedding space"
 license = "MIT"
