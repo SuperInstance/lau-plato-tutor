@@ -35,3 +35,9 @@ MIT
 ---
 
 *🦀 Part of the **SuperInstance Fleet** — The crab inherits the shell. The forge shapes the steel.*
+
+---
+## Conservation Law Integration
+This crate is part of the SuperInstance SEED Tier1 ecosystem, designed to enforce conservation laws across agentic systems. For more information, see:
+- [Conservation Law Documentation](https://github.com/SuperInstance/conservation-law)
+- [SEED SDK Installation Guide](https://github.com/SuperInstance/SuperInstance#quickstart)
